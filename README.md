@@ -26,7 +26,7 @@
       <li><a href="https://github.com/ekram1936/Call-Center-Analysis" target="blank">Call Center Analysis</a></li>
     </ul>
   </li>
-  <li>⚡ Fun fact - I'm passionate about organizing and streamlining projects to maximize efficiency and value.</li>
+  <li>⚡ Fun fact - I thrive on transforming raw data into meaningful insights and revel in the thrill of uncovering patterns and trends that can unlock valuable information for decision-makers. I'm not just a data analyst; I'm a data detective on a mission to turn numbers into narratives! 📊🕵️‍♂️</li>
 </ul>
 
 ##
