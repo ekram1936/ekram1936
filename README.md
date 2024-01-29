@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Ekram Hossain</h1>
-<img align="right" alt="Data Analysis" src="https://github.com/ekram1936/ekram1936/blob/main/20943767.jpg" width="45%"/>
+<img align="right" alt="Data Analysis" src="https://github.com/ekram1936/ekram1936/blob/main/10197785.jpg" width="45%"/>
 
 <h3 align="left">About Me</h3>
 <ul>
   <li>🎓 I’m currently studying <b> Data Science at <a href="https://www.fau.de/" target="blank">FAU</a> </b>.</li>
-  <li>🏛️ I’m currently working part-time as Assistant to <b>Data Analyst</b> at <a href="https://www.elektrobit.com/" target="blank">Elektrobit</a> and enjoy all aspects of Data Analysis and Data Science.</li>
+  <li>🏛️ I’m currently working part-time as <b>Data Analyst</b> at <a href="https://www.elektrobit.com/" target="blank">Elektrobit</a> and enjoy all aspects of Data Analysis and Data Science.</li>
   <li>💬 Ask me about <b>Data, Data Analysis, Data Science, Data Visualization</b>.</li>
   <li>📫 Reach me: ekramml0013@gmail.com.</li>
   <li>🔗 Check out Research Work: 
